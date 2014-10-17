@@ -1,6 +1,6 @@
 /* Turn the links red */
 
-a {color: red;}
+a {color: blue;}
 
 /* Make the name 36px font and italicized */
 
@@ -38,9 +38,19 @@ a:hover {color:purple;}
 	padding:20px;
 	margin: 20px auto;
 }
+	div#header{
+	background-color:white;
+	width: 960px;
+	padding:5px;
+	margin: 10px auto;
+}
 /* Make it so you can see the footer and center it */
-#footer {
-	color:white;
+	div#footer {
+	color:black;
 	margin: 20px auto;
 	text-align: center;
+}
+
+   	table  {
+	width: auto !important;
 }
